@@ -52,7 +52,6 @@ const HomeScreen = () => {
             language: "en",
           }}
         />
-        r
         <NavOptions />
       </View>
     </SafeAreaView>
